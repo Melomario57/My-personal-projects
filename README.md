@@ -1,4 +1,4 @@
-# My-personal-projects
+# My-personal-projects :man_technologist:
 
 **These are my own projects**:
 
