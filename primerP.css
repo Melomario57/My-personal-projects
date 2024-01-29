@@ -1,0 +1,90 @@
+body{
+  font-family: sans-serif;
+  font-size: 1.3rem;
+  line-height: 1.4;
+  background-color: hsl(240, 56%, 42%);
+  margin: 3em auto;
+  width: 65%;
+  background-image: linear-gradient( 115deg, rgba(60, 60, 158, 0.9), rgba(135, 135, 205, 0.6) ) ,url(https://www.bartolomeconsultores.com/wp-content/uploads/2015/10/fondo-formulario.jpg);
+  }
+
+  form {
+    background-color: #08179c;
+    border-color: #08179c;
+    width: 97%;
+    margin-top: 0;
+    margin-bottom: 2mm;
+    margin-left: 2mm;
+    margin-right: 2mm;
+    padding-left: 6mm;
+    padding-bottom: 11mm;
+    padding-top: 3mm;
+    padding-right: 1px;
+  }
+
+  fieldset {
+    padding: auto;
+    border: none;
+    margin: 2em;
+}
+
+
+  h1 {
+    margin: 15px auto;
+    color: white;
+    text-align: center;
+    font-size: 38px;
+    font-style: italic;
+  }
+  
+  .form-control{
+    width: 300%;
+    display: block;
+  }
+
+  header{
+    color: white;
+    text-align: center;
+    font-size: 27px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
+
+  p{
+    font-size: 1.3rem;
+  }
+
+  label{
+    display: flex;
+    margin: 0.6rem 0;
+  }
+
+input, button, select, textarea{
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+  line-height: inherit;
+}
+
+button[type="submit"]{
+  display: block;
+      padding: 5px ;
+      height: 2em;
+      width: 726.5px;
+      min-height: 35px;
+      color: white;
+      background-color: #050d50;
+      border-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
